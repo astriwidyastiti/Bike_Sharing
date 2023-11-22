@@ -23,4 +23,11 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 	- casual: count of casual users
 	- registered: count of registered users
 	- cnt: count of total rental bikes including both casual and registered
-	
+#Dashboard 
+https://bikesharing-nkyhjrn7eas3fovl7gma9h.streamlit.app/
+
+#Menjalankan streamlit 
+streamlit run dashboard.py
+
+![dashboard](https://github.com/astriwidyastiti/Bike_Sharing/assets/112534966/71aabc6e-0eb7-4209-b717-a2bf5e4cec61)
+
