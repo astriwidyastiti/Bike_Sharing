@@ -28,7 +28,7 @@ https://bikesharing-nkyhjrn7eas3fovl7gma9h.streamlit.app/
 
 # Menjalankan streamlit
 
-streamlit run dashboard.py
+	streamlit run dashboard.py
 
 # Tampilan Dashboard
 ![dashboard](https://github.com/astriwidyastiti/Bike_Sharing/assets/112534966/71aabc6e-0eb7-4209-b717-a2bf5e4cec61)
